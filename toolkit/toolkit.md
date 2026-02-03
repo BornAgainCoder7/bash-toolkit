@@ -100,4 +100,4 @@ bash
 
 `man man`  # manual page for manuel function
 
-`man nikto` # manual page for nikto
+`man nikto` # manual page for `nikto`
