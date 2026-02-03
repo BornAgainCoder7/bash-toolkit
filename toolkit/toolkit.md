@@ -1,16 +1,12 @@
-# 🛠️ Bash CLI Toolkit
+Bash CLI Toolkit
 
 This is my personal Bash toolkit for learning Linux system administration, cybersecurity (blue team), and daily CLI workflows. These are real commands I use regularly.
 
-All praise to the Lord for this journey.
-
----
-
-## 🔹 Basic Navigation & System Info
+Basic Navigation & System Info
 
 These are useful to move around the file system and understand the machine you're on.
 
-```bash
+bash
 `pwd`                     # Show current working directory  
 `ls -lah`                 # List all files, including hidden, with details  
 `cd ..`                   # Go up one directory  
