@@ -11,8 +11,9 @@ I use these commands and tools daily for:
 
 Structure
 
-- `/toolkit/toolkit.md`: All my core CLI notes and examples
+- `/toolkit/toolkit.md`(https://www.github.com/bornagaincoder7/bash-toolkit): All my core CLI notes and examples
 - Future: Screenshots, experiments, real-world logs, and cron setups
 
 This toolkit is a live resource and evolves as I grow in technical fluency and proficiency.
+
 
