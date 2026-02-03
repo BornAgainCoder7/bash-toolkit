@@ -97,3 +97,7 @@ bash
 `cat /etc/crontab`                   # View system-wide cron jobs  
 
 `sudo tail -f /var/log/syslog`       # View cron jobs running live  
+
+`man man`  # manual page for manuel function
+
+'man nikto' # manual page for nikto
