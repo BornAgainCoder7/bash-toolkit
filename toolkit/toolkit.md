@@ -4,7 +4,7 @@ This is my personal Bash toolkit for learning Linux system administration, cyber
 
 Basic Navigation & System Info
 
-These are useful to move around the file system and understand the machine you're on.
+I use these commands regularly in my web infrastructure and cybersecurity work.
 
 bash
 
