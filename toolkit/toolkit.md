@@ -7,6 +7,7 @@ Basic Navigation & System Info
 These are useful to move around the file system and understand the machine you're on.
 
 bash
+
 `pwd`                     # Show current working directory  
 `ls -lah`                 # List all files, including hidden, with details  
 `cd ..`                   # Go up one directory  
@@ -39,11 +40,11 @@ bash
 `curl -I https://example.com`   # Show HTTP headers  
 `wget https://example.com`      # Download file from web  
 
-`nmap -sV 192.168.1.1`           # Scan ports and detect versions  
-`whois domain.com`              # Whois info  
+`nmap -sV 192.168.1.000`           # Scan ports and detect versions  
+`whois sunpathseo.com`              # Whois info  
 `dig example.com`               # DNS lookup  
 `nslookup example.com`          # DNS alternative  
-`masscan -p1-65535 192.168.1.1` # Super fast port scanner  
+`masscan -p1-65535 192.168.1.000` # Super fast port scanner  
 `nikto -h http://example.com`   # Web vulnerability scanner  
 `wpscan --url https://site.com` # WordPress vulnerability scanner  
 
