@@ -28,13 +28,11 @@ bash
 
 `free -h`                 # RAM and swap usage in human-readable format  
 
-`df -h`
-
-# Disk usage by mounted filesystem  
+`df -h`                   # Disk usage by mounted filesystem  
 
 `top`                     # Real-time system processes  
 
-`htop`                    # (If installed) enhanced version of top  
+`htop`                    # enhanced version of top  
 
 `vmstat 1 5`              # System performance snapshots  
 
@@ -97,4 +95,5 @@ bash
 `crontab -e`                          # Edit your cron jobs  
 
 `cat /etc/crontab`                   # View system-wide cron jobs  
+
 `sudo tail -f /var/log/syslog`       # View cron jobs running live  
